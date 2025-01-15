@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|c:\\users\\lenovo\\desktop\\gorsel3\\dernek\\dernek\\dernek.dataaccess\\concrete\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|solutionrelative:dernek.dataaccess\\concrete\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|c:\\users\\lenovo\\desktop\\gorsel3\\dernek\\dernek\\dernek.dataaccess\\concrete\\adonet\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|solutionrelative:dernek.dataaccess\\concrete\\adonet\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|c:\\users\\lenovo\\desktop\\gorsel3\\dernek\\dernek\\dernek.dataaccess\\concrete\\adonet\\memberpaymentstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|solutionrelative:dernek.dataaccess\\concrete\\adonet\\memberpaymentstatusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|c:\\users\\lenovo\\desktop\\gorsel3\\dernek\\dernek\\dernek.dataaccess\\concrete\\adonet\\duesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|solutionrelative:dernek.dataaccess\\concrete\\adonet\\duesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|c:\\users\\lenovo\\desktop\\gorsel3\\dernek\\dernek\\dernek.dataaccess\\concrete\\adonet\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|solutionrelative:dernek.dataaccess\\concrete\\adonet\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|c:\\users\\lenovo\\desktop\\gorsel3\\dernek\\dernek\\dernek.dataaccess\\concrete\\adonet\\bloodtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|solutionrelative:dernek.dataaccess\\concrete\\adonet\\bloodtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|c:\\users\\lenovo\\desktop\\gorsel3\\dernek\\dernek\\dernek.dataaccess\\concrete\\adonet\\authdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|solutionrelative:dernek.dataaccess\\concrete\\adonet\\authdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|c:\\users\\lenovo\\desktop\\gorsel3\\dernek\\dernek\\dernek.dataaccess\\abstract\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|solutionrelative:dernek.dataaccess\\abstract\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|c:\\users\\lenovo\\desktop\\gorsel3\\dernek\\dernek\\dernek.dataaccess\\abstract\\iauthdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789EE73-F6BA-4DF1-B413-7E14DAAAFB3B}|Dernek.DataAccess\\Dernek.DataAccess.csproj|solutionrelative:dernek.dataaccess\\abstract\\iauthdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824DCC2E-D6F3-4905-80A5-89F5BEEE92C0}|Dernek.Business\\Dernek.Business.csproj|c:\\users\\lenovo\\desktop\\gorsel3\\dernek\\dernek\\dernek.business\\concrete\\mytoolbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824DCC2E-D6F3-4905-80A5-89F5BEEE92C0}|Dernek.Business\\Dernek.Business.csproj|solutionrelative:dernek.business\\concrete\\mytoolbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824DCC2E-D6F3-4905-80A5-89F5BEEE92C0}|Dernek.Business\\Dernek.Business.csproj|c:\\users\\lenovo\\desktop\\gorsel3\\dernek\\dernek\\dernek.business\\concrete\\memberpaymentstatusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824DCC2E-D6F3-4905-80A5-89F5BEEE92C0}|Dernek.Business\\Dernek.Business.csproj|solutionrelative:dernek.business\\concrete\\memberpaymentstatusmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824DCC2E-D6F3-4905-80A5-89F5BEEE92C0}|Dernek.Business\\Dernek.Business.csproj|c:\\users\\lenovo\\desktop\\gorsel3\\dernek\\dernek\\dernek.business\\concrete\\membermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824DCC2E-D6F3-4905-80A5-89F5BEEE92C0}|Dernek.Business\\Dernek.Business.csproj|solutionrelative:dernek.business\\concrete\\membermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824DCC2E-D6F3-4905-80A5-89F5BEEE92C0}|Dernek.Business\\Dernek.Business.csproj|c:\\users\\lenovo\\desktop\\gorsel3\\dernek\\dernek\\dernek.business\\concrete\\duesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824DCC2E-D6F3-4905-80A5-89F5BEEE92C0}|Dernek.Business\\Dernek.Business.csproj|solutionrelative:dernek.business\\concrete\\duesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824DCC2E-D6F3-4905-80A5-89F5BEEE92C0}|Dernek.Business\\Dernek.Business.csproj|c:\\users\\lenovo\\desktop\\gorsel3\\dernek\\dernek\\dernek.business\\concrete\\citymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824DCC2E-D6F3-4905-80A5-89F5BEEE92C0}|Dernek.Business\\Dernek.Business.csproj|solutionrelative:dernek.business\\concrete\\citymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824DCC2E-D6F3-4905-80A5-89F5BEEE92C0}|Dernek.Business\\Dernek.Business.csproj|c:\\users\\lenovo\\desktop\\gorsel3\\dernek\\dernek\\dernek.business\\concrete\\bloodtypemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824DCC2E-D6F3-4905-80A5-89F5BEEE92C0}|Dernek.Business\\Dernek.Business.csproj|solutionrelative:dernek.business\\concrete\\bloodtypemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\concrete\\Database.cs",
+              "RelativeDocumentMoniker": "Dernek.DataAccess\\concrete\\Database.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\concrete\\Database.cs",
+              "RelativeToolTip": "Dernek.DataAccess\\concrete\\Database.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:44:20.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\concrete\\AdoNet\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "Dernek.DataAccess\\concrete\\AdoNet\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\concrete\\AdoNet\\MemberRepository.cs",
+              "RelativeToolTip": "Dernek.DataAccess\\concrete\\AdoNet\\MemberRepository.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAGcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:35:59.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberPaymentStatusRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\concrete\\AdoNet\\MemberPaymentStatusRepository.cs",
+              "RelativeDocumentMoniker": "Dernek.DataAccess\\concrete\\AdoNet\\MemberPaymentStatusRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\concrete\\AdoNet\\MemberPaymentStatusRepository.cs",
+              "RelativeToolTip": "Dernek.DataAccess\\concrete\\AdoNet\\MemberPaymentStatusRepository.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:31:42.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DuesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\concrete\\AdoNet\\DuesRepository.cs",
+              "RelativeDocumentMoniker": "Dernek.DataAccess\\concrete\\AdoNet\\DuesRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\concrete\\AdoNet\\DuesRepository.cs",
+              "RelativeToolTip": "Dernek.DataAccess\\concrete\\AdoNet\\DuesRepository.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:25:09.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\concrete\\AdoNet\\CityRepository.cs",
+              "RelativeDocumentMoniker": "Dernek.DataAccess\\concrete\\AdoNet\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\concrete\\AdoNet\\CityRepository.cs",
+              "RelativeToolTip": "Dernek.DataAccess\\concrete\\AdoNet\\CityRepository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:24:05.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BloodTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\concrete\\AdoNet\\BloodTypeRepository.cs",
+              "RelativeDocumentMoniker": "Dernek.DataAccess\\concrete\\AdoNet\\BloodTypeRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\concrete\\AdoNet\\BloodTypeRepository.cs",
+              "RelativeToolTip": "Dernek.DataAccess\\concrete\\AdoNet\\BloodTypeRepository.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:13:49.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthDal.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\concrete\\AdoNet\\AuthDal.cs",
+              "RelativeDocumentMoniker": "Dernek.DataAccess\\concrete\\AdoNet\\AuthDal.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\concrete\\AdoNet\\AuthDal.cs",
+              "RelativeToolTip": "Dernek.DataAccess\\concrete\\AdoNet\\AuthDal.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:12:45.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\abstract\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "Dernek.DataAccess\\abstract\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\abstract\\IEntityRepository.cs",
+              "RelativeToolTip": "Dernek.DataAccess\\abstract\\IEntityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:03:44.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthDal.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\abstract\\IAuthDal.cs",
+              "RelativeDocumentMoniker": "Dernek.DataAccess\\abstract\\IAuthDal.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.DataAccess\\abstract\\IAuthDal.cs",
+              "RelativeToolTip": "Dernek.DataAccess\\abstract\\IAuthDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T03:02:33.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyToolBox.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.Business\\concrete\\MyToolBox.cs",
+              "RelativeDocumentMoniker": "Dernek.Business\\concrete\\MyToolBox.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.Business\\concrete\\MyToolBox.cs",
+              "RelativeToolTip": "Dernek.Business\\concrete\\MyToolBox.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:56:50.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MemberPaymentStatusManager.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.Business\\concrete\\MemberPaymentStatusManager.cs",
+              "RelativeDocumentMoniker": "Dernek.Business\\concrete\\MemberPaymentStatusManager.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.Business\\concrete\\MemberPaymentStatusManager.cs",
+              "RelativeToolTip": "Dernek.Business\\concrete\\MemberPaymentStatusManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:55:15.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MemberManager.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.Business\\concrete\\MemberManager.cs",
+              "RelativeDocumentMoniker": "Dernek.Business\\concrete\\MemberManager.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.Business\\concrete\\MemberManager.cs",
+              "RelativeToolTip": "Dernek.Business\\concrete\\MemberManager.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:46:42.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DuesManager.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.Business\\concrete\\DuesManager.cs",
+              "RelativeDocumentMoniker": "Dernek.Business\\concrete\\DuesManager.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.Business\\concrete\\DuesManager.cs",
+              "RelativeToolTip": "Dernek.Business\\concrete\\DuesManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:45:34.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CityManager.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.Business\\concrete\\CityManager.cs",
+              "RelativeDocumentMoniker": "Dernek.Business\\concrete\\CityManager.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.Business\\concrete\\CityManager.cs",
+              "RelativeToolTip": "Dernek.Business\\concrete\\CityManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:44:36.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BloodTypeManager.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.Business\\concrete\\BloodTypeManager.cs",
+              "RelativeDocumentMoniker": "Dernek.Business\\concrete\\BloodTypeManager.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Gorsel3\\Dernek\\Dernek\\Dernek.Business\\concrete\\BloodTypeManager.cs",
+              "RelativeToolTip": "Dernek.Business\\concrete\\BloodTypeManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:43:12.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

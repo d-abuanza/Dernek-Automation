@@ -1,0 +1,42 @@
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.DataAccess\bin\Debug\Dernek.DataAccess.dll.config
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.DataAccess\bin\Debug\Dernek.DataAccess.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.DataAccess\bin\Debug\Dernek.DataAccess.pdb
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.DataAccess\bin\Debug\Dernek.Entities.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.DataAccess\bin\Debug\PlantUml.Net.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.DataAccess\bin\Debug\Dernek.Entities.pdb
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.DataAccess\bin\Debug\Dernek.Entities.dll.config
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.Properties.Resources.resources
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.DataAccess\obj\Debug\Dernek.D.C4F7728E.Up2Date
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.pdb
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.DataAccess\bin\Debug\Dernek.DataAccess.dll.config
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.DataAccess\bin\Debug\Dernek.DataAccess.dll
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.DataAccess\bin\Debug\Dernek.DataAccess.pdb
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.DataAccess\bin\Debug\Dernek.Entities.dll
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.DataAccess\bin\Debug\PlantUml.Net.dll
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.DataAccess\bin\Debug\Dernek.Entities.pdb
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.DataAccess\bin\Debug\Dernek.Entities.dll.config
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.csproj.AssemblyReference.cache
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.Properties.Resources.resources
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.csproj.GenerateResource.cache
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.DataAccess\obj\Debug\Dernek.D.C4F7728E.Up2Date
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.dll
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.pdb
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.DataAccess\bin\Debug\Dernek.DataAccess.dll.config
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.DataAccess\bin\Debug\Dernek.DataAccess.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.DataAccess\bin\Debug\Dernek.DataAccess.pdb
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.DataAccess\bin\Debug\Dernek.Entities.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.DataAccess\bin\Debug\PlantUml.Net.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.DataAccess\bin\Debug\Dernek.Entities.pdb
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.DataAccess\bin\Debug\Dernek.Entities.dll.config
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.DataAccess\obj\Debug\Dernek.D.C4F7728E.Up2Date
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.DataAccess\obj\Debug\Dernek.DataAccess.pdb

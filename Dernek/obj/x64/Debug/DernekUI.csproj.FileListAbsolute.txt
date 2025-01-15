@@ -1,0 +1,98 @@
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\obj\x64\Debug\DernekUI.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\obj\x64\Debug\Dernek.AdminPage.resources
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\obj\x64\Debug\Dernek.DuesPage.resources
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\obj\x64\Debug\Dernek.LoginPage.resources
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\obj\x64\Debug\Dernek.MakePaymentPage.resources
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\obj\x64\Debug\Dernek.MemberDetay.resources
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\obj\x64\Debug\Dernek.MemberPage.resources
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\obj\x64\Debug\Dernek.MemberPaymentPage.resources
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\obj\x64\Debug\Dernek.NewMemberPage.resources
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\obj\x64\Debug\Dernek.Properties.Resources.resources
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\obj\x64\Debug\Dernek.SendMail.resources
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\obj\x64\Debug\DernekUI.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\obj\x64\Debug\DernekUI.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\Dernek.exe.config
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\Dernek.exe
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\Dernek.pdb
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\BouncyCastle.Cryptography.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\Dernek.Business.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\Dernek.DataAccess.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\Dernek.Entities.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\itextsharp.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\PlantUml.Net.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\ZedGraph.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\Dernek.Business.pdb
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\Dernek.Business.dll.config
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\Dernek.DataAccess.pdb
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\Dernek.DataAccess.dll.config
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\Dernek.Entities.pdb
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\Dernek.Entities.dll.config
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\BouncyCastle.Cryptography.xml
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\itextsharp.xml
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\ZedGraph.xml
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\de\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\es\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\fr\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\hu\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\it\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\ja\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\pt\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\ru\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\sk\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\sv\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\tr\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\obj\x64\Debug\Dernek.ZedGraphPage.resources
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\obj\x64\Debug\DernekUI.csproj.Up2Date
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\obj\x64\Debug\Dernek.exe
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek\obj\x64\Debug\Dernek.pdb
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\Dernek.exe.config
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\Dernek.exe
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\Dernek.pdb
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\BouncyCastle.Cryptography.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\Dernek.Business.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\Dernek.DataAccess.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\Dernek.Entities.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\itextsharp.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\PlantUml.Net.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\ZedGraph.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\Dernek.Business.pdb
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\Dernek.Business.dll.config
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\Dernek.DataAccess.pdb
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\Dernek.DataAccess.dll.config
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\Dernek.Entities.pdb
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\Dernek.Entities.dll.config
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\BouncyCastle.Cryptography.xml
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\itextsharp.xml
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\ZedGraph.xml
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\de\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\es\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\fr\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\hu\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\it\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\ja\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\pt\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\ru\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\sk\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\sv\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\tr\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\bin\x64\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\obj\x64\Debug\DernekUI.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\obj\x64\Debug\Dernek.AdminPage.resources
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\obj\x64\Debug\Dernek.DuesPage.resources
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\obj\x64\Debug\Dernek.LoginPage.resources
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\obj\x64\Debug\Dernek.MakePaymentPage.resources
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\obj\x64\Debug\Dernek.MemberDetay.resources
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\obj\x64\Debug\Dernek.MemberPage.resources
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\obj\x64\Debug\Dernek.MemberPaymentPage.resources
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\obj\x64\Debug\Dernek.NewMemberPage.resources
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\obj\x64\Debug\Dernek.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\obj\x64\Debug\Dernek.SendMail.resources
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\obj\x64\Debug\Dernek.ZedGraphPage.resources
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\obj\x64\Debug\DernekUI.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\obj\x64\Debug\DernekUI.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\obj\x64\Debug\DernekUI.csproj.Up2Date
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\obj\x64\Debug\Dernek.exe
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek\obj\x64\Debug\Dernek.pdb

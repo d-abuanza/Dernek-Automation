@@ -1,0 +1,33 @@
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.Entities\bin\Debug\Dernek.Entities.dll.config
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.Entities\bin\Debug\Dernek.Entities.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.Entities\bin\Debug\Dernek.Entities.pdb
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.Entities\bin\Debug\PlantUml.Net.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.Properties.Resources.resources
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.Entities\obj\Debug\Dernek.E.3242A9D1.Up2Date
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.dll
+C:\Users\lenovo\Desktop\201002225_DIAA M. A. ABUANZA\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.pdb
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.Entities\bin\Debug\Dernek.Entities.dll.config
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.Entities\bin\Debug\Dernek.Entities.dll
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.Entities\bin\Debug\Dernek.Entities.pdb
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.Entities\bin\Debug\PlantUml.Net.dll
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.csproj.AssemblyReference.cache
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.Properties.Resources.resources
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.csproj.GenerateResource.cache
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.Entities\obj\Debug\Dernek.E.3242A9D1.Up2Date
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.dll
+C:\Users\MohamadKhoja\Desktop\Dernek\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.pdb
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.Entities\bin\Debug\Dernek.Entities.dll.config
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.Entities\bin\Debug\Dernek.Entities.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.Entities\bin\Debug\Dernek.Entities.pdb
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.Entities\bin\Debug\PlantUml.Net.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.Entities\obj\Debug\Dernek.E.3242A9D1.Up2Date
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.dll
+C:\Users\lenovo\Desktop\Gorsel3\Dernek\Dernek\Dernek.Entities\obj\Debug\Dernek.Entities.pdb
